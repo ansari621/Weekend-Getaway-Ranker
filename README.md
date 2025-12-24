@@ -1,6 +1,6 @@
 # Weekend-Getaway-Ranker
 
-I am creating a model that takes a 'Source City' as input and recommends the top 3 weekend destinations. 
+This model takes a 'Source City' as input and recommends the top 3 weekend destinations. 
 The ranking will be based on:
 - **Distance** 
 - **Google review rating**
